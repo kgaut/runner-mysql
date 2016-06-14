@@ -6,8 +6,8 @@
 ### Mysql 5.7
 `docker pull kgaut/runner-mysql:5.7`
 
-##Usage 
-###Docker Compose
+## Usage 
+### Docker Compose
 
 You can use this image with docker-compose
 
